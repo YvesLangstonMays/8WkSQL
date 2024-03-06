@@ -1,1 +1,4 @@
 *.sql linguist-language=SQL
+*.sql linguist-vendored=false
+*.sql linguist-documentation=false
+
